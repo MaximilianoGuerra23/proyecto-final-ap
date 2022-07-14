@@ -1,0 +1,55 @@
+.navbar{
+    background-color: black !important;
+}
+.navbar-brand{
+    color: rgb(76, 161, 76) !important;
+    font-weight: bold !important;
+}
+.btn{
+    font-weight: bold;
+    background-color: rgb(76, 161, 76);
+    border: black;
+}
+.btn:hover{
+    background: green;
+    
+}
+header{
+    background-image: url(https://alponiente.com/wp-content/uploads/2019/05/Deforestaci%C3%B3n3-980x556.jpg) !important;
+}
+h1{
+    opacity: .8;
+}
+h3{
+    color:rgb(76, 161, 76) ;
+    font-weight: bold;
+    font-size: 30px;
+}
+p{
+    font-weight:bold !important;
+    font-size: 1rem !important;
+}
+h2{
+    color:rgb(76, 161, 76) ;
+}
+.call-to-action{
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQMAAADCCAMAAAB6zFdcAAAABlBMVEUBAQEAAgGu1narAAADQUlEQVR4nO2c7W7DIAxFw/u/9JS22tKOFDD+uIZ7pGn70WBz7BCStjsOI8qJ1eCDROVCB1gOutBNuPyiNqRDMDoghEBQKgwebZecE2kc5Ff9y/+p9Hhco99O6jOhg43gZooOFKA9OjiRO/CX14g4NRPRkf4N1Ig4lZD0QPdTqB2wMyVeR+igTnIZ8+ln7wiV/OlgTSiGDjxRcy15yAhSaDqwZoc5tqADG1SfEsCfjfeP2cXD9YUAwiHBUkFjyLGXT0acpOZgMiXJBXIu4iTsgybxRYpPI40DgCSDCSoVSIc82dJByq2OMnRAFoAtO/vu+Jft7BZy6eB4bgavP/VXkGXZo82/Y+cAz6z/x2HQGiwgITpwiav7kM4KOkiIrsycpaGD/2SfhUb6dPAcRmGMQHDSv/RT9tYSs4uD4Ym9HlR8PrdwE6QdSFLdcotycnexLQaV5BGjAOYN+fv59usYs4e3FtEB8YTVX+Uzzq7XDTpAZ+vJExi2PxEPOjihgzcaNoBl6RWSDrKw01xv4K7yuEiIToSQpUi0vJhlSQfX0S8h3v/Ct/NgMtWag6IxsCcKqX68G1j+fidxkCjRLjTaL08H16GDYXaa6x2JVm4zQh2wAHSwGP3lHKt7dVzTOxT54HQwMLL2wFO4JgR6fw2XUFLwKqtK1+zoYHnogA5OBh2ArAy8/YNJowZoWm4Al8YNOoAB9I7FFTrIhW69ctadDrCgQTp4QANkgPZX0aM+h3L53rxpmI4LWdDezG1fSAfLQ4N0AITXGY28fNCBIZtNt8ZuJa8CJ6B8EJ1PBMs7yPbZfYN/SpaosGbdSAcDwX1DwkEHC6B7AolHC+0lOsCGXujgxZ4OuDJ4OzDdV3pNZTLMMg4Uv/GvSpI+6B7zcz6NO7Sgeze9iHs6GD+uEc3s9DIY8zmwoGhRDqxaiw5mEafVf2DQ6tIPHUyw5KQGoYPtHXhNH3khoQP1dwMBAlkiqCFo3eXYOnBTNRbItYJOLaN7H6KMVzBkB1aUd+yD2UYQQQcJATn9QvdzdNAEObcHY49hxCHo4HUkqoNuRh24Xt30qWZOBzCLfx9pErUjVb2MAHWQd2XQgw62I0e1bRtzcQc/SjQIXqes064AAAAASUVORK5CYII=);
+}
+.call-to-action:before{
+    background-color: black;
+} 
+.mb-4{
+    color: white;
+}
+.col-auto{
+    background-color: rgb(76, 161, 76);
+}
+.bi-facebook{
+    color: black;
+}
+.bi-twitter{
+    color: black;
+}
+.bi-instagram{
+    color: black;
+}
